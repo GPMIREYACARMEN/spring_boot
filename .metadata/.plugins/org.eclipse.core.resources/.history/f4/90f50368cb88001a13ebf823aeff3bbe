@@ -1,0 +1,5 @@
+package com.edu.spring_angular.repository;
+
+public interface CategoriaRepository {
+
+}

@@ -1,0 +1,5 @@
+package com.edu.spring_angular.entity;
+
+public class categoria {
+
+}

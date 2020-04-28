@@ -8,7 +8,6 @@ public class SpringAngularApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringAngularApplication.class, args);
-		System.out.println("hola mundo");
 	}
 
 }
